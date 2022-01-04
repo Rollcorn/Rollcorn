@@ -5,7 +5,7 @@
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/Rollcorn/Rollcorn/blob/main/assets/image.png)
+![Header](https://github.com/Rollcorn/Rollcorn/blob/main/assets/scene.png)
 
 ### About me
 

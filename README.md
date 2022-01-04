@@ -14,7 +14,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on audio storage/library website.
 - 🌱 I’m currently learning Spring framework.
 - 🤔 I’m looking for help with ...
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://rollcorn.github.io./)
+- 👨‍💻 &nbsp;Read more about my projects at [rollcorn.github.io](https://rollcorn.github.io./)
 - 📫 How to reach me: dnsshkdk@gmail.com
 
 ### Languages and Tools

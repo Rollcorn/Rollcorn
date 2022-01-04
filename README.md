@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/Rollcorn/Rollcorn/blob/main/assets/screen.png)
+![Header](https://github.com/Rollcorn/Rollcorn/blob/main/assets/header.png)
 
 ### About me
 

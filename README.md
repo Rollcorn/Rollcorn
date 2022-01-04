@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-![Java Core](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=ff9129) 
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=36a8ff)
-![MySql](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=ffed)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=ffed)
-![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=36ff70)
-![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=ffca89)
+![Java Core](https://img.shields.io/badge/-Java-gray?style=for-the-badge&logo=Java&logoColor=ff9129) 
+![C++](https://img.shields.io/badge/-C++-gray?style=for-the-badge&logo=C%2b%2b&logoColor=36a8ff)
+![MySql](https://img.shields.io/badge/-MySQL-gray?style=for-the-badge&logo=mysql&logoColor=ffed)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL&logoColor=ffed)
+![Spring](https://img.shields.io/badge/-Spring-gray?style=for-the-badge&logo=Spring&logoColor=36ff70)
+![Hibernate](https://img.shields.io/badge/-Hibernate-gray?style=for-the-badge&logo=Hibernate&logoColor=ffca89)

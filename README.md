@@ -29,7 +29,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## Skills
 
-[done]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/done.png "Done"
+[done]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/ldone.png "Done"
 
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
@@ -41,7 +41,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ----
 
-[Completed]: <img src="https://github.com/Rollcorn/Rollcorn/blob/main/assets/completed.png" width="100" /> "Completed"
+[Completed]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/completed.png "Completed"
 [In Progress]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/inprogress.png "In Progress"
 [Soon]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/comingsoon.png "Soon"
 

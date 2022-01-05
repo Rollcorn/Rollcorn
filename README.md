@@ -41,9 +41,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 ----
 
-[Completed]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/completed.png "Completed"
-[In Progress]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/inprogress.png "In Progress"
-[Soon]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/comingsoon.png "Soon"
+[Completed]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lcompleted.png "Completed"
+[In Progress]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/linprogress.png "In Progress"
+[Soon]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lcomingsoon.png "Soon"
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|

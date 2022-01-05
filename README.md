@@ -41,7 +41,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ----
 
-[Completed]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/completed.png "Completed"
+[Completed]: <img src="https://github.com/Rollcorn/Rollcorn/blob/main/assets/completed.png" width="100" /> "Completed"
 [In Progress]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/inprogress.png "In Progress"
 [Soon]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/comingsoon.png "Soon"
 

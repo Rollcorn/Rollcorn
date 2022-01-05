@@ -7,7 +7,7 @@
 
 ![Header](https://github.com/Rollcorn/Rollcorn/blob/main/assets/scene.png)
 
-### About me
+## About me
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -16,7 +16,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Read more about my last finished projects at [rollcorn.github.io](https://rollcorn.github.io./)
 - 📫 How to reach me: dnsshkdk@gmail.com
 
-### Languages and Tools
+## Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=ff9129) 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=36a8ff)
@@ -39,7 +39,7 @@ This is the place where I opensource stuff and break things :rofl:
 |**Spring framework**              | ![done][done]|![done][done]|               |                  |                |                 |
 
 
-----
+## Current learning progress
 
 [Completed]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lcompleted.png "Completed"
 [In Progress]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lilinprogress.png "In Progress"
@@ -47,12 +47,13 @@ This is the place where I opensource stuff and break things :rofl:
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]| Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]| Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
-| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
+| ![Completed][Completed]| Jan 2021 | [Stepik] - Operating Systems        | [Сomputer Science Center](https://stepik.org/course/1780/info)                                   |
+| ![Completed][Completed]| Feb 2021 | [Stepik] - Multithreaded programming in C / C ++        | [Mail.ru Group](https://stepik.org/course/149/info)                                   |
+| ![Completed][Completed]| Mar 2021 | [Stepik] - Java. Base Course                               | [Сomputer Science Center](https://stepik.org/course/187/info)               |
+| ![Completed][Completed]| Dec 2021 | [Coursera] - Web Development with Java Spring Framework                               | [Санкт-Петербургский политехнический университет Петра Великого](https://www.coursera.org/learn/web-development-with-java-spring-framework/home/welcome)               |
+| ![In Progress][In Progress] |   Jan 2022       | [Coursera] - Parallel Programming in Java                          | [Rice University](https://www.coursera.org/learn/parallel-programming-in-java/home/welcome)              |
+| ![In Progress][In Progress] |   Jan 2022    | [Coursera] - Building Scalable Java Microservices with Spring Boot and Spring Cloud                           | [Google Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome)               |
+| ![Soon][Soon]               |          | [Coursera] - Software Design and Architecture Specialization | [University of Alberta](https://www.coursera.org/specializations/software-design-architecture)                       |
 
 
 [//]: # (Reference links to courses)

@@ -34,9 +34,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**Java Core**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**C++**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Spring framework**              | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Java Core**                     | ![done][done]|![done][done]|![done][done]|![done][done]|                |                 |
+|**C++**                           | ![done][done]|![done][done]|![done][done]|![done][done]|                |                 |
+|**Spring framework**              | ![done][done]|![done][done]|               |                  |                |                 |
 
 
 ----
@@ -47,8 +47,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
+| ![Completed][Completed]| Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
+| ![Completed][Completed]| Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
 | ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |

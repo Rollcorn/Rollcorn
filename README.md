@@ -43,6 +43,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## Current learning progress
 
+<<<<<<< HEAD
 [completed]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lcompleted.png "Completed"
 [in progress]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lilinprogress.png "In Progress"
 [soon]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lcomingsoon.png "Soon"
@@ -60,5 +61,25 @@ This is the place where I opensource stuff and break things :rofl:
 |        ![Soon][soon]        |          | [Coursera] - Software Design and Architecture Specialization                        |                              [University of Alberta](https://www.coursera.org/specializations/software-design-architecture)                              |
 
 [//]: # "Reference links to courses"
+=======
+[Completed]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lcompleted.png "Completed"
+[In Progress]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lilinprogress.png "In Progress"
+[Soon]: https://github.com/Rollcorn/Rollcorn/blob/main/assets/lcomingsoon.png "Soon"
+
+|            Status           |   Year   | Course                                                          |                Tutor                        |
+|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Completed][Completed]| Jan 2021 | [Stepik] - Operating Systems        | [Сomputer Science Center](https://stepik.org/course/1780/info)                                   |
+| ![Completed][Completed]| Feb 2021 | [Stepik] - Multithreaded programming in C / C ++                                  | [Mail.ru Group](https://stepik.org/course/149/info)                                   |
+| ![Completed][Completed]| Mar 2021 | [Stepik] - Java. Base Course                                                       | [Сomputer Science Center](https://stepik.org/course/187/info)               |
+| ![Completed][Completed]| Aug 2021 | Practice in programming with algorithms and data structures 1st course  | [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain)               |
+| ![Completed][Completed]| Oct 2021 | Practice in programming with algorithms and data structures 2nd course  | [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain)   |
+| ![Completed][Completed]| Dec 2021 | [Coursera] - Web Development with Java Spring Framework | [Санкт-Петербургский политехнический университет Петра Великого](https://www.coursera.org/learn/web-development-with-java-spring-framework/home/welcome)               |
+| ![In Progress][In Progress] |   Jan 2022       | [Coursera] - Parallel Programming in Java | [Rice University](https://www.coursera.org/learn/parallel-programming-in-java/home/welcome)              |
+| ![Completed][Completed] [Certificate](https://coursera.org/share/1eb4d0ec0bca90cbd5c808a606521d12) |   Jan 2022    | [Coursera] - Building Scalable Java Microservices with Spring Boot and Spring Cloud | [Google Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) |
+| ![Soon][Soon]               |          | [Coursera] - Software Design and Architecture Specialization | [University of Alberta](https://www.coursera.org/specializations/software-design-architecture)                       |
+
+
+[//]: # (Reference links to courses)
+>>>>>>> e48d7dcca183df7e3016fc5bf7aaf9de49f07429
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rollcorn)](https://github.com/anuraghazra/github-readme-stats)

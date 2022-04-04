@@ -17,13 +17,8 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning Spring framework. You can look at my [syllabus](https://docs.google.com/spreadsheets/d/11FlKZ0HRSQCDVSGVtglLY5rEkbltWyGg5sHI2Axvxrc/edit#gid=0)
 - In free time im solving [LeetCode Contests](https://github.com/Rollcorn/Contests/tree/main/LeetCode)
 - 👨‍💻 &nbsp;Read more about my last finished projects at [rollcorn.github.io](https://rollcorn.github.io./)
-- 📫 How to reach me: dnsshkdk@gmail.com
-
-  or
-
-  [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=ff9129)](https://www.instagram.com/d_shkdk/)
-  [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=36a8ff)](https://www.facebook.com/dshkndk)
-  [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/d_shkndk)
+- 📫 How to reach me: dnsshkdk@gmail.com  or  
+                      [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/d_shkndk)
 
 ## Languages and Tools
 

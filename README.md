@@ -11,8 +11,11 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on pet project - [audio storage](https://github.com/Rollcorn/spring-project).
+- 🔭 I’m currently working on projects:
+  * [audio storage](https://github.com/Rollcorn/spring-project) - JAVA - SPRING - Postgres.
+  * [client-server app](https://github.com/Rollcorn/ServerClientApp) - C++ - Sockets - QT
 - 🌱 I’m currently learning Spring framework. You can look at my [syllabus](https://docs.google.com/spreadsheets/d/11FlKZ0HRSQCDVSGVtglLY5rEkbltWyGg5sHI2Axvxrc/edit#gid=0)
+- In free time im solving [LeetCode Contests](https://github.com/Rollcorn/Contests/tree/main/LeetCode)
 - 👨‍💻 &nbsp;Read more about my last finished projects at [rollcorn.github.io](https://rollcorn.github.io./)
 - 📫 How to reach me: dnsshkdk@gmail.com
 
@@ -39,7 +42,12 @@ This is the place where I opensource stuff and break things :rofl:
 | :------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :----------: |
 |    **Java Core**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
 |       **C++**        |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
-| **Spring framework** |   ![done][done]   | ![done][done] |               |                  |                |              |
+| **OOP**              |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Code Style**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Spring framework** |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Algotithms and DS**|  ![done][done]    | ![done][done] | ![done][done] |                  |                |              |
+| **Databases**        |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+| **Design Patterns** |   ![done][done]    | ![done][done] |               |                  |                |              |
 
 ## Current learning progress
 
@@ -49,15 +57,16 @@ This is the place where I opensource stuff and break things :rofl:
 
 |           Status            | Year     | Course                                                                              |                                                                          Tutor                                                                           |
 | :-------------------------: | :------- | :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   ![Completed][completed]   | Jan 2021 | [Stepik] - Operating Systems                                                        |                                              [Сomputer Science Center](https://stepik.org/course/1780/info)                                              |
-|   ![Completed][completed]   | Feb 2021 | [Stepik] - Multithreaded programming in C / C ++                                    |                                                   [Mail.ru Group](https://stepik.org/course/149/info)                                                    |
-|   ![Completed][completed]   | Mar 2021 | [Stepik] - Java. Base Course                                                        |                                              [Сomputer Science Center](https://stepik.org/course/187/info)                                               |
-|   ![Completed][completed]   | Aug 2021 | Practice in programming with algorithms and data structures 1st course              |                                     [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain)                                      |
-|   ![Completed][completed]   | Oct 2021 | Practice in programming with algorithms and data structures 2nd course              |                                     [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain)                                      |
-|   ![Completed][completed]   | Dec 2021 | [Coursera] - Web Development with Java Spring Framework                             | [Санкт-Петербургский политехнический университет Петра Великого](https://www.coursera.org/learn/web-development-with-java-spring-framework/home/welcome) |
-| ![In Progress][in progress] | Jan 2022 | [Coursera] - Parallel Programming in Java                                           |                               [Rice University](https://www.coursera.org/learn/parallel-programming-in-java/home/welcome)                                |
-| ![In Progress][in progress] | Jan 2022 | [Coursera] - Building Scalable Java Microservices with Spring Boot and Spring Cloud |                                   [Google Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome)                                   |
-|        ![Soon][soon]        |          | [Coursera] - Software Design and Architecture Specialization                        |                              [University of Alberta](https://www.coursera.org/specializations/software-design-architecture)                              |
+| ![Completed][completed]   | Jan 2021 | [Stepik] - Operating Systems | [Сomputer Science Center](https://stepik.org/course/1780/info)|
+| ![Completed][completed]   | Feb 2021 | [Stepik] - Multithreaded programming in C / C ++| [Mail.ru Group](https://stepik.org/course/149/info) |
+| ![Completed][completed]   | Mar 2021 | [Stepik] - Java. Base Course|[Сomputer Science Center](https://stepik.org/course/187/info) |
+| ![Completed][completed]   | Aug 2021 | Practice in programming with algorithms and data structures 1st course  | [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain)                                    |
+| ![Completed][completed]   | Oct 2021 | Practice in programming with algorithms and data structures 2nd course  | [Высшая Школа Программирования Сергея Бобровского](https://vk.com/lambda_brain)                                    |
+| ![Completed][completed]   | Dec 2021 | [Coursera] - Web Development with Java Spring Framework                 | [Санкт-Петербургский политехнический университет Петра Великого](https://www.coursera.org/learn/web-development-with-java-spring-framework/home/welcome) |
+| ![Completed][completed] | Jan 2022 | [Coursera] - Building Scalable Java Microservices with Spring Boot and Spring Cloud | [Google Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome)                                   |
+| ![Completed][completed] | Feb 2022 | [Udemy] - Master Microservices with Spring Boot and Spring Cloud | [Udemy Course Page](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)   
+| ![In Progress][in progress] | Apr 2022 | [Coursera] - Parallel Programming in Java                               | [Rice University](https://www.coursera.org/learn/parallel-programming-in-java/home/welcome)                                |
+| ![Soon][soon]        |          | [Coursera] - Software Design and Architecture Specialization            | [University of Alberta](https://www.coursera.org/specializations/software-design-architecture)                              |
 
 [//]: # "Reference links to courses"
 

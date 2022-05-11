@@ -11,7 +11,7 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on projects:
+- 🔭 Some of my pet projects:
   * [employee-management-system](https://github.com/Rollcorn/employee-management-system) - JAVA - Spring Boot - Angulat - PostgreSQL.
   * [student-management-system](https://github.com/Rollcorn/student-management-system) - JAVA - Spring Boot - Thymeleaf - PostgreSQL.
   * [client-server app](https://github.com/Rollcorn/ServerClientApp) - C++ - Sockets - QT

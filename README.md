@@ -12,7 +12,8 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on projects:
-  * [audio storage](https://github.com/Rollcorn/spring-project) - JAVA - SPRING - Postgres.
+  * [employee-management-system](https://github.com/Rollcorn/employee-management-system) - JAVA - Spring Boot - Angulat- PostgreSQL.
+  * [student-management-system](https://github.com/Rollcorn/student-management-system) - JAVA - Spring Boot - Thymeleaf- PostgreSQL.
   * [client-server app](https://github.com/Rollcorn/ServerClientApp) - C++ - Sockets - QT
 - 🌱 I’m currently learning Spring framework. You can look at my [syllabus](https://docs.google.com/spreadsheets/d/11FlKZ0HRSQCDVSGVtglLY5rEkbltWyGg5sHI2Axvxrc/edit#gid=0)
 - In free time im solving [LeetCode Contests](https://github.com/Rollcorn/Contests/tree/main/LeetCode)

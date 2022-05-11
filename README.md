@@ -12,8 +12,8 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on projects:
-  * [employee-management-system](https://github.com/Rollcorn/employee-management-system) - JAVA - Spring Boot - Angulat- PostgreSQL.
-  * [student-management-system](https://github.com/Rollcorn/student-management-system) - JAVA - Spring Boot - Thymeleaf- PostgreSQL.
+  * [employee-management-system](https://github.com/Rollcorn/employee-management-system) - JAVA - Spring Boot - Angulat - PostgreSQL.
+  * [student-management-system](https://github.com/Rollcorn/student-management-system) - JAVA - Spring Boot - Thymeleaf - PostgreSQL.
   * [client-server app](https://github.com/Rollcorn/ServerClientApp) - C++ - Sockets - QT
 - 🌱 I’m currently learning Spring framework. You can look at my [syllabus](https://docs.google.com/spreadsheets/d/11FlKZ0HRSQCDVSGVtglLY5rEkbltWyGg5sHI2Axvxrc/edit#gid=0)
 - In free time im solving [LeetCode Contests](https://github.com/Rollcorn/Contests/tree/main/LeetCode)
@@ -61,7 +61,7 @@ This is the place where I opensource stuff and break things :rofl:
 | ![Completed][completed]   | Dec 2021 | [Coursera] - Web Development with Java Spring Framework                 | [Санкт-Петербургский политехнический университет Петра Великого](https://www.coursera.org/learn/web-development-with-java-spring-framework/home/welcome) |
 | ![Completed][completed] | Jan 2022 | [Coursera] - Building Scalable Java Microservices with Spring Boot and Spring Cloud | [Google Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome)                                  |
 | ![Completed][completed] | Feb 2022 | [Udemy] - Master Microservices with Spring Boot and Spring Cloud | [Udemy Course Page](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)   
-| ![In Progress][in progress] | Apr 2022 | [СПбПУ] - DEV-C210. Объектно-ориентированное программирование на языке С++. Углубленное изучение| [Высшая Инженерная Школа AVALON (Политех)](https://www.avalon.ru/Courses/Course/DEV-C210-Obektno-orientirovannoe-programmirovanie-na-yazyke-S-Uglublennoe-izuchenie/2519/)                                |
+| ![Completed][in progress] | Apr 2022 | [СПбПУ] - DEV-C210. Объектно-ориентированное программирование на языке С++. Углубленное изучение| [Высшая Инженерная Школа AVALON (Политех)](https://www.avalon.ru/Courses/Course/DEV-C210-Obektno-orientirovannoe-programmirovanie-na-yazyke-S-Uglublennoe-izuchenie/2519/)                                |
 | ![In Progress][in progress] | Apr 2022 | [Coursera] - Parallel Programming in Java| [Rice University](https://www.coursera.org/learn/parallel-programming-in-java/home/welcome)                                |
 | ![Soon][soon]        |          | [Coursera] - Software Design and Architecture Specialization            | [University of Alberta](https://www.coursera.org/specializations/software-design-architecture)                              |
 

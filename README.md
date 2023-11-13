@@ -10,6 +10,7 @@
 ## About me
 
 This is the place where I opensource stuff and break things :rofl:
+<!--
 
 - 🔭 Some of my pet projects:
   * [employee-management-system](https://github.com/Rollcorn/employee-management-system) - JAVA - Spring Boot - Angulat - PostgreSQL.
@@ -18,6 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning Spring framework. You can look at my [syllabus](https://docs.google.com/spreadsheets/d/11FlKZ0HRSQCDVSGVtglLY5rEkbltWyGg5sHI2Axvxrc/edit#gid=0)
 - In free time im solving [LeetCode Contests](https://github.com/Rollcorn/Contests/tree/main/LeetCode)
 - 👨‍💻 &nbsp;Read more about my last finished projects at [rollcorn.github.io](https://rollcorn.github.io./)
+-->
 - 📫 How to reach me: dnsshkdk@gmail.com  or  
                       [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/d_shkndk)
 

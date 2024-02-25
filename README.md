@@ -38,9 +38,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 |        Skill         | 1<br>Introduction |  2<br>Basics  |   3<br>Good   | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
 | :------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :----------: |
-|    **Java Core**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done] |              |
+|    **Java**          |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done] |              |
 |       **C++**        |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
-|       **Kotlin**        |   ![done][done]   | ![done][done] |  |     |                |              |
+|       **Python**     |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+|       **Kotlin**     |   ![done][done]   | ![done][done] |               |                  |                |              |
 | **OOP**              |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 | **Code Style**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 | **Spring framework** |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
